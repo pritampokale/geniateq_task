@@ -1,0 +1,6 @@
+@geniateq_task_HostAddress = http://localhost:5016
+
+GET {{geniateq_task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

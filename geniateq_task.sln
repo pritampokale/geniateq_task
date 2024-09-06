@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35017.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geniateq_task", "geniateq_task.csproj", "{6FBF3FDA-F29B-42EE-9185-73F0244B45A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FBF3FDA-F29B-42EE-9185-73F0244B45A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBF3FDA-F29B-42EE-9185-73F0244B45A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBF3FDA-F29B-42EE-9185-73F0244B45A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBF3FDA-F29B-42EE-9185-73F0244B45A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FFE5B1B-DE85-49BB-8184-5D7600F7FBA8}
+	EndGlobalSection
+EndGlobal
